@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02733df-22ce-402a-bdbb-9696836a379b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_23_Ejercicio_Saludo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Saludo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
+    <list default="true" id="b02733df-22ce-402a-bdbb-9696836a379b" name="Changes" comment="ejerciciosaludar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adecco/modelo/Saludo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/modelo/Saludo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/USUARIO/Documents/_03_21_2023_POO"
+    "last_opened_file_path": "C:/Users/USUARIO/Documents/_03_23_encapsulacion"
   }
 }]]></component>
   <component name="RunManager">
@@ -76,6 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679574706780</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejerciciosaludar">
+      <created>1679576887233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679576887233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejerciciosaludar" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejerciciosaludar" />
   </component>
 </project>
